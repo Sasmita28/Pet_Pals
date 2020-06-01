@@ -1,5 +1,5 @@
 aniso8601==8.0.0
-setup.py / Pipfile
+pet_pals/ app.py
 astroid==2.4.1
 beautifulsoup4==4.9.1
 bs4==0.0.1
